@@ -44,10 +44,3 @@ source .venv/bin/activate
 pytest
 ```
 
-## Capturing a screenshot
-
-1. Run `streamlit run app.py` and open the app in your browser.
-2. Configure the sidebar (model, role, resume upload, etc.) and send at least one chat prompt.
-3. Use the browser's screenshot feature (or macOS `CMD+SHIFT+4`/`CMD+SHIFT+5`) to capture the chat interface plus sidebar.
-4. Save the PNG/JPG for submission.
-
