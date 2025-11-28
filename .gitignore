@@ -1,0 +1,21 @@
+# Python / Streamlit
+__pycache__/
+*.pyc
+.DS_Store
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Streamlit / local artifacts
+.streamlit/secrets.toml
+.streamlit/logs/
+.pytest_cache/
+
+# VSCode / IDE
+.vscode/
+
+# Logs
+*.log
+
